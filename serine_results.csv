@@ -1,0 +1,4 @@
+gene,n_pairs,liver_higher_in,median_change,p_value,p_corrected
+PHGDH,13,6,-0.077,0.6355,1.0
+PSAT1,13,8,1.2873,0.0479,0.1436
+PSPH,13,2,-0.2237,0.0134,0.0403
